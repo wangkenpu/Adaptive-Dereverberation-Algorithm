@@ -1,6 +1,6 @@
 # Adaptive-Dereverberation-Algorithm
 
-MATLAB implemention of Weighted RLS based adaptive dereverberation algorithm.
+MATLAB implemention of [Weighted RLS based adaptive dereverberation algorithm](http://www.mirlab.org/conference_papers/international_conference/ICASSP%202009/pdfs/0003733.pdf).
 
 ## Layout
 ```
@@ -34,5 +34,4 @@ MATLAB implemention of Weighted RLS based adaptive dereverberation algorithm.
 
 ## Reference
 
-[WRLS-ADA](http://www.mirlab.org/conference_papers/international_conference/ICASSP%202009/pdfs/0003733.pdf)
-Yoshioka T, Tachibana H, Nakatani T, et al. Adaptive dereverberation of speech signals with speaker-position change detection[C]. 2009 IEEE International Conference on Acoustics, Speech and Signal Processing. IEEE, 2009: 3733-3736.
+[1] Yoshioka T, Tachibana H, Nakatani T, et al. Adaptive dereverberation of speech signals with speaker-position change detection[C]. 2009 IEEE International Conference on Acoustics, Speech and Signal Processing. IEEE, 2009: 3733-3736.
